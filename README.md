@@ -7,11 +7,17 @@ first app built on react native, to show my profile picture and take the user to
 ### Screenshots
 
 ![Application Icon](../master/docs/app-icon.png)
-![Landing page](../master/docs/app-page.png)
+<br />
+
+<hr />
+<img src="../master/docs/app-page.png" alt="landing page" width="400"/>
+<hr />
 
 ### Installation
 
 - Download the APK
-- Install it
-- ![Install Page](../master/docs/app-install-0.png)
-- ![Install Progress](../master/docs/app-install-1.png)
+
+---
+
+  <img src="../master/docs/app-install-0.png" alt="install page" width="400"/>
+  <img src="../master/docs/app-install-1.png" alt="install progress" width="400"/>
